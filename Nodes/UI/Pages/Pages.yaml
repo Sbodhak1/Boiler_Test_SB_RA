@@ -6655,28 +6655,6 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 230.0
-  - Name: Label1
-    Id: g=97ebf014d202aebe782cd0ac14155b98
-    Type: Label
-    Children:
-    - Name: Text
-      Id: g=56836af7bb6094bbd5923692f18151f5
-      Type: BaseDataVariableType
-      DataType: LocalizedText
-      ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Subhajit Change"}
-    - Name: TopMargin
-      Id: g=21476d12ee2e093d5f568c430557fc96
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 63.0
-    - Name: LeftMargin
-      Id: g=2523ad96f2a152d8aefdaa9dfad67f3a
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 330.0
 - Name: Data
   Id: g=1b0dc70d5d42c09a70acec1c917ca5d0
   Supertype: BasePage
